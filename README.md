@@ -8,6 +8,7 @@
 - Python, Django
 - Async processing
 - REST APIs
+- Data-driven @ Google Cloud Platform
 - PostgreSQL, MySQL
 - Elasticsearch & Neo4J
 - BigQuery
@@ -15,17 +16,16 @@
 📖 **Techs I'm diving deep**
 - Data Engineering
 - Serverless
-- Google Cloud Platform
 
 🔭 **Projects I’m working on**
-- [eduK](http://eduk.com.br/): a learning platform
-- Django styleguide and serverless solutions
+- [Nilo Saúde](https://www.nilosaude.com.br/): a healthtech platform
+- Django styleguide and [serverless solutions](https://github.com/orgs/flamingo-run/)
 
 📫 **How to reach me**
 - [LinkedIn](https://www.linkedin.com/in/joaodaher/)
 
 ⚡️ **Fun facts**
 - I like to design in my free time.
-- I worked in an IT project for 3+ years teaching low-income and senior citizens how to use a computer.
-- I love The Office so much my dog is named Michael Scott.
+- I teched for 3+ years low-income and senior citizens how to use a computer.
+- I love The Office / US so much my dog is named Michael Scott.
 - I know how to skin a ram/sheep 🐑.
