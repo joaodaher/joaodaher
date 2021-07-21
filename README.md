@@ -9,9 +9,9 @@
 - Async processing
 - REST APIs
 - Data-driven @ Google Cloud Platform
+- BigQuery
 - PostgreSQL, MySQL
 - Elasticsearch & Neo4J
-- BigQuery
 
 📖 **Techs I'm diving deep**
 - Data Engineering
@@ -25,7 +25,7 @@
 - [LinkedIn](https://www.linkedin.com/in/joaodaher/)
 
 ⚡️ **Fun facts**
-- I like to design in my free time.
-- I teched for 3+ years low-income and senior citizens how to use a computer.
-- I love The Office / US so much my dog is named Michael Scott.
+- I like to design in my free time 👨🏻‍🎨.
+- I teached for 3+ years low-income and senior citizens how to use a computer 👴🏼.
+- I love The Office/US so much my dog is named Michael Scott ☕️.
 - I know how to skin a ram/sheep 🐑.
