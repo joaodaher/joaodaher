@@ -5,17 +5,18 @@
 - Masters: Computational Mathematics at [UNIFEI](https://unifei.edu.br/)/Brazil back in 2014.
 
 🖥 **Techs I know well**
-- Python, Django
+- Python + Django
 - Async processing
 - REST APIs
 - Data-driven @ Google Cloud Platform
+- Serverless
 - BigQuery
-- PostgreSQL, MySQL
-- Elasticsearch & Neo4J
+- PostgreSQL
 
 📖 **Techs I'm diving deep**
 - Data Engineering
-- Serverless
+- Machine learning Pipelines
+- System Architecture
 
 🔭 **Projects I’m working on**
 - [Nilo Saúde](https://www.nilosaude.com.br/): a healthtech platform
