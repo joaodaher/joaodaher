@@ -1,8 +1,14 @@
 ### Heeeey! 👍 👍  
 
-🎓 **My background**
+🎓 **My educational background**
 - Undergraduation: Science Computing at [UFLA](https://ufla.br/)/Brazil back in 2012.
 - Masters: Computational Mathematics at [UNIFEI](https://unifei.edu.br/)/Brazil back in 2014.
+
+🏢 **My professional background**
+- Social Network investigation platform for Brazilian Federal Police
+- Search Engine for SaaS e-Commerce platform
+- Large-scale video-based Educational Platform
+- Healthcare SaaS Platform architecture
 
 🖥 **Techs I know well**
 - Python + Django
