@@ -6,8 +6,8 @@
 
 🖥 **Techs I know well**
 - Python + Django
-- Async processing
 - REST APIs
+- System Architecture
 - Data-driven @ Google Cloud Platform
 - Serverless
 - BigQuery
@@ -16,7 +16,7 @@
 📖 **Techs I'm diving deep**
 - Data Engineering
 - Machine learning Pipelines
-- System Architecture
+- GKE
 
 🔭 **Projects I’m working on**
 - [Nilo Saúde](https://www.nilosaude.com.br/): a healthtech platform
